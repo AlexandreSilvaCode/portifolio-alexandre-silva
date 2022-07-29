@@ -94,12 +94,12 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    height: 8vh;
-    padding: 0px 8px;
+    height: 9vh;
+    padding: 0px 9px;
   }
   
   header .grid-layout nav img {
-    width: 80px;
+    width: 70px;
   }
   
   header .grid-layout nav .nav-list {
@@ -494,7 +494,7 @@
     color: #909090;
     font-family: "Saira";
     font-size: 2rem;
-    font-line-height: 160%;
+  
   }
   
   #s-projects {
